@@ -10,17 +10,21 @@ This code calls the following functions in crimes_weather.ipynb
    read_weather_data
    get_crime_weather_merged
 
-Sample put of the execution:   
-start reading .....  Tue Jul  9 19:12:58 2019
-elapsed time= 1686.679203748703
-columns= ['Date', 'Year', 'Month', 'Humidity daily mean', 'Mean Sea Level Pressure daily mean', 'Precipitation daily sum', 'Total Cloud Cover daily mean', 'Sunshine Duration daily sum', 'Wind Speed daily mean', 'Temperature daily max (F)']
-done reading .....  Tue Jul  9 19:43:18 2019
-
-
-NOte: the code takes 30 mins to run on a 16GB ra machine.
+Note: the code takes 30 mins to run on a 16GB ram machine.
    
 2) crimes_weather.ipynb -- file has code to build plot relationships between crime types and weather and wards.
+3) divya_crime_plot_factcheck.ipynb 
+Sample output :
+Chicago crime dataset has been read and loaded into a dataframe
+start reading .....  Tue Jul  9 20:53:16 2019
 
+total time= 628.3840482234955
+complete .... Tue Jul  9 21:03:45 2019
+
+Note: Takes 10 mins to read. Please be patient.
+
+4) FactCheckPlots.ipynb
+Will plot the 2016 homicide rate and location details with number of crimes.
 
 Step1:
 -----
