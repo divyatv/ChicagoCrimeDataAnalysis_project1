@@ -25,8 +25,9 @@ We have user friendly comments in std out telling user the status of loads and p
 
 Steps to plot(After the widget loads)
 -------------------------------------
+
 WEATHER PLOT
-====================-
+====================
 1) Pick a plot type from PLOT section on the left side of the widget.
 2) For weather plots, pick crime types and weather condition from the respective widgets. Select years of your choice.
 
