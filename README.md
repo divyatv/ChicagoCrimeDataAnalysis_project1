@@ -46,7 +46,7 @@ CRIME DISTRIBUTION PLOT:
 
 CHICAGO ATTRACTIONS AND CRIME PLOT:
 =====================================
-1) Pick year and API KEY for the plot. Wait for the widget to plot most visited places in Chicago. After the map appears, you can hover over the places to find out which crimes types are most prevelant and also the crime counts.
+1) Pick year(pick only 2 year timeframe- takes alot of time to plot otherwise) and API KEY for the plot. Wait for the widget to plot most visited places in Chicago. After the map appears, you can hover over the places to find out which crimes types are most prevelant and also the crime counts.
 
 SNS PLOT:
 ==============
