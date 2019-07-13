@@ -12,11 +12,11 @@ This code calls the following functions.
 3. Crime  Count on Ward       --       file crimes_weather.ipynb
 4. Crime Count Per Month line plot --  file crimes_weather.ipynb
 5. Crime Count Per Month bar plot  --  file crimes_weather.ipynb
-6. Multi Crome Count Monthly plot  --  file ramesh_Project.ipynb
-7. Crime Distribution map    --        file divya_crime_plot_factcheck.ipynb
+6. Multi Crome Count Monthly plot  --  file crimerate_stats.ipynb
+7. Crime Distribution map    --        file crime_plot_gmap_factcheck.ipynb
 8. Chicago Attrcations Plot Demo   --  file Chicago_Arractions_Plot.ipynb
 9.  Chicago Attraction Plot    --       file Chicago_Arractions_Plot.ipynb
-10. SNS plot         --                 file divya_crime_plot_factcheck.ipynb
+10. SNS plot         --                 file crime_plot_gmap_factcheck.ipynb
 11.  Fact Checks           --            file ramesh_Project.ipynb & divya_crime_plot_factcheck.ipynb
 
 
