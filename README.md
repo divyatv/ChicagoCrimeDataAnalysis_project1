@@ -57,6 +57,10 @@ FACT CHECKS:
 ===================
 1) Plots homicides in Chicago in 2016. Chicago had the most homicides in 2016 compared to entire US.
 
+CHECK CHANGE in % of CRIME RATE over 5 years
+===============================================
+1) Use branch Divya and run the code - PolicereportSimulator_plotChanges
+
 
 
 
