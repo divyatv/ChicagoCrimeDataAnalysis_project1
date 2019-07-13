@@ -14,10 +14,10 @@ This code calls the following functions.
 5. Crime Count Per Month bar plot  --  file crimes_weather.ipynb
 6. Multi Crome Count Monthly plot  --  file crimerate_stats.ipynb
 7. Crime Distribution map    --        file crime_plot_gmap_factcheck.ipynb
-8. Chicago Attrcations Plot Demo   --  file Chicago_Arractions_Plot.ipynb
-9.  Chicago Attraction Plot    --       file Chicago_Arractions_Plot.ipynb
+8. Chicago Attraction Plot Demo   --  file Chicago_Attractions_Plot.ipynb
+9.  Chicago Attraction Plot    --       file Chicago_Attractions_Plot.ipynb
 10. SNS plot         --                 file crime_plot_gmap_factcheck.ipynb
-11.  Fact Checks           --            file ramesh_Project.ipynb & divya_crime_plot_factcheck.ipynb
+11.  Fact Checks           --            file crimerate_stats.ipynb & crime_plot_gmap_factcheck.ipynb
 
 
 Note: the code takes 30 mins to run on a 16GB ram machine.
